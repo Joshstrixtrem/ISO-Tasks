@@ -1,0 +1,13 @@
+{
+  "name": "clase-3-enrutador",
+  "version": "1.0.0",
+  "description": "Sistema de enrutamiento modular con API de productos - Clase 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "keywords": ["nodejs", "router", "api", "products", "http"],
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
