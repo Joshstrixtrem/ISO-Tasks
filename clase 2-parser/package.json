@@ -1,0 +1,21 @@
+{
+  "name": "clase-2-parser",
+  "version": "1.0.0",
+  "description": "Parser de JSON para solicitudes HTTP - Clase 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "type": "module",
+  "keywords": [
+    "nodejs",
+    "parser",
+    "json",
+    "http",
+    "server",
+    "javascript"
+  ],
+  "author": "Joseph",
+  "license": "ISC"
+}
